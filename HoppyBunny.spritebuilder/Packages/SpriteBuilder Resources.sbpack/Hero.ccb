@@ -57,7 +57,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>assets/bunny1.png</string>
+								<string>assets/heart1.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -75,7 +75,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>assets/bunny2.png</string>
+								<string>assets/heart2.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -93,7 +93,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>assets/bunny1.png</string>
+								<string>assets/heart1.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -111,7 +111,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>assets/bunny2.png</string>
+								<string>assets/heart2.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -129,7 +129,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>assets/bunny1.png</string>
+								<string>assets/heart1.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -147,7 +147,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>assets/bunny2.png</string>
+								<string>assets/heart2.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -297,7 +297,7 @@
 				<key>value</key>
 				<array>
 					<string></string>
-					<string>assets/bunny2.png</string>
+					<string>assets/heart2.png</string>
 				</array>
 			</dict>
 			<dict>
@@ -333,8 +333,6 @@
 				<array/>
 			</dict>
 		</array>
-		<key>selected</key>
-		<true/>
 		<key>seqExpanded</key>
 		<true/>
 	</dict>
@@ -392,7 +390,7 @@
 			<key>offset</key>
 			<real>0.0</real>
 			<key>position</key>
-			<real>1</real>
+			<real>0.0</real>
 			<key>resolution</key>
 			<real>30</real>
 			<key>scale</key>
